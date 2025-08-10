@@ -76,8 +76,8 @@ def ascii_vro():
      |                         | 
       \._                   _./  
          ```--. . , ; .--'''       
-               | |   |        TOOL : U-DDOS      
-            .-=||  | |=-.   OWNER : U7P4L 1N
+               | |   |        TOOL : Made by sm      
+            .-=||  | |=-.   OWNER : Sm
             `-=#$%&%$#=-'   
                | ;  :|     
       _____.,-#%&$@%#&#~,._____
@@ -323,7 +323,7 @@ def menu():
 \033[38;5;196m   ░           \033[36;1m ░        ░         ░ ░   \033[34;1m      ░  
               \033[36;1m░        \033[35;1m░  
   \x1b[1;91m--●\x1b[1;92m━═━═━═━━═━═━═\x1b[1;91m❴\033[47m\033[1;30mANONYMOUS CYBER™\033[40m\033[00m\x1b[1;91m❵\x1b[1;92m═━═━═━━═━═━\x1b[1;91m●--
-  \t\x1b[38;2;0;212;14m- - - - - FREE DDOS PANEL 2023 - - - - -  
+  \t\x1b[38;2;0;212;14m- - - - - PAID DDOS PANNEL 2025- - - - -  
   \t\x1b[38;2;0;212;14m        TOOL VARSION :1.0.4 
   \t\x1b[38;2;0;212;14mGITHUB:https://github.com/U7P4L-IN/U-DDOS
   \t\x1b[38;2;0;212;14m TYPE [\033[1;31mhelp\x1b[38;2;0;212;14m] \x1b[38;2;0;212;14mTO SEE THE ALL COMMANDS.
